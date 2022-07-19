@@ -3,7 +3,7 @@ title: Home
 ---
 
 # What is the playbook?
-The playbook is split into multiple chapters, some of these are client facing, some of these are internally facing, and the
+The playbook is split into multiple chapters, some of these are client facing, some of these are internally facing.
 
 ## Chapter 1. What is Discovery?
 This is a clinet facing document, to allow them to understand not only what a discovery is, but why we do it as well as what they can expect out the back of a discovery.
