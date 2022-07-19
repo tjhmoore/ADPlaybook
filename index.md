@@ -1,23 +1,12 @@
 ---
 title: Home
-navOrder: second nested
 ---
 
-# Getting Started
+# What is the playbook?
+The playbook is split into multiple chapters, some of these are client facing, some of these are internally facing, and the
 
-Creating a static website from markdown files is as simple as creating those markdown files on your file system and
-telling the `markdown-docs` library how you want to convert them to HTML.
+## Chapter 1. What is Discovery?
+This is a clinet facing document, to allow them to understand not only what a discovery is, but why we do it as well as what they can expect out the back of a discovery.
 
-1. Take a look at the files created on your file system at `/Users/Toby/Documents/Github/Markdown`
-
-2. Create new markdown files here or modify existing ones.
-
-3. Update your configuration file at `/Users/Toby/Documents/Github/Markdown/markdown-docs.js` to modify site title, colors, and the template to use.
-
-## Start the Server
-
-Run the local server with the command `markdown-docs dev /Users/Toby/Documents/Github/Markdown` and open a browser to the URL specified.
-
-# Further Reading
-
-For further reading, check out the full docs at https://gi60s.github.io/markdown-docs/
+## Chapter 2. How to run a discvoery?
+An internal facing chapter focused on how to run a discovery including how to produce the output that a client is expecting.
