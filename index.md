@@ -12,3 +12,4 @@ This is a clinet facing document, to allow them to understand not only what a di
 
 ## Chapter 2. How to run a discvoery?
 An internal facing chapter focused on how to run a discovery including how to produce the output that a client is expecting.
+
