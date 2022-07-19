@@ -1,3 +1,5 @@
+(setq markdown-css-paths '("/stylesheet.css"))
+
 ---
 title: Home
 ---
